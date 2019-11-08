@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\miguel.silva\\Documents\\Projetos\\VisualStudio\\Projetos\\Aula\\RestWhitASP-NETUdemy\\RestWhitASPNETUdemy\\RestWhitASPNETUdemy\\RestWhitASPNETUdemy.csproj": {}
+    "C:\\Users\\miguel.silva\\Documents\\Projetos\\VisualStudio\\Projetos\\Aula\\RestWhitASP-NETUdemy\\RestWhitASPNETUdemy 01 - Calculator\\RestWhitASPNETUdemy\\RestWhitASPNETUdemy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\miguel.silva\\Documents\\Projetos\\VisualStudio\\Projetos\\Aula\\RestWhitASP-NETUdemy\\RestWhitASPNETUdemy\\RestWhitASPNETUdemy\\RestWhitASPNETUdemy.csproj": {
+    "C:\\Users\\miguel.silva\\Documents\\Projetos\\VisualStudio\\Projetos\\Aula\\RestWhitASP-NETUdemy\\RestWhitASPNETUdemy 01 - Calculator\\RestWhitASPNETUdemy\\RestWhitASPNETUdemy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\miguel.silva\\Documents\\Projetos\\VisualStudio\\Projetos\\Aula\\RestWhitASP-NETUdemy\\RestWhitASPNETUdemy\\RestWhitASPNETUdemy\\RestWhitASPNETUdemy.csproj",
+        "projectUniqueName": "C:\\Users\\miguel.silva\\Documents\\Projetos\\VisualStudio\\Projetos\\Aula\\RestWhitASP-NETUdemy\\RestWhitASPNETUdemy 01 - Calculator\\RestWhitASPNETUdemy\\RestWhitASPNETUdemy.csproj",
         "projectName": "RestWhitASPNETUdemy",
-        "projectPath": "C:\\Users\\miguel.silva\\Documents\\Projetos\\VisualStudio\\Projetos\\Aula\\RestWhitASP-NETUdemy\\RestWhitASPNETUdemy\\RestWhitASPNETUdemy\\RestWhitASPNETUdemy.csproj",
+        "projectPath": "C:\\Users\\miguel.silva\\Documents\\Projetos\\VisualStudio\\Projetos\\Aula\\RestWhitASP-NETUdemy\\RestWhitASPNETUdemy 01 - Calculator\\RestWhitASPNETUdemy\\RestWhitASPNETUdemy.csproj",
         "packagesPath": "C:\\Users\\miguel.silva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\miguel.silva\\Documents\\Projetos\\VisualStudio\\Projetos\\Aula\\RestWhitASP-NETUdemy\\RestWhitASPNETUdemy\\RestWhitASPNETUdemy\\obj\\",
+        "outputPath": "C:\\Users\\miguel.silva\\Documents\\Projetos\\VisualStudio\\Projetos\\Aula\\RestWhitASP-NETUdemy\\RestWhitASPNETUdemy 01 - Calculator\\RestWhitASPNETUdemy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\miguel.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",

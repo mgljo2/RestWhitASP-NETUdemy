@@ -16,3 +16,21 @@ C:\Users\miguel.silva\Documents\Projetos\VisualStudio\Projetos\Aula\RestWhitASP-
 C:\Users\miguel.silva\Documents\Projetos\VisualStudio\Projetos\Aula\RestWhitASP-NETUdemy\RestWhitASPNETUdemy\RestWhitASPNETUdemy\obj\Debug\netcoreapp3.0\RestWhitASPNETUdemy.RazorTargetAssemblyInfo.cache
 C:\Users\miguel.silva\Documents\Projetos\VisualStudio\Projetos\Aula\RestWhitASP-NETUdemy\RestWhitASPNETUdemy\RestWhitASPNETUdemy\obj\Debug\netcoreapp3.0\RestWhitASPNETUdemy.dll
 C:\Users\miguel.silva\Documents\Projetos\VisualStudio\Projetos\Aula\RestWhitASP-NETUdemy\RestWhitASPNETUdemy\RestWhitASPNETUdemy\obj\Debug\netcoreapp3.0\RestWhitASPNETUdemy.pdb
+C:\Users\miguel.silva\Documents\Projetos\VisualStudio\Projetos\Aula\RestWhitASP-NETUdemy\RestWhitASPNETUdemy 01 - Calculator\RestWhitASPNETUdemy\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\miguel.silva\Documents\Projetos\VisualStudio\Projetos\Aula\RestWhitASP-NETUdemy\RestWhitASPNETUdemy 01 - Calculator\RestWhitASPNETUdemy\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\miguel.silva\Documents\Projetos\VisualStudio\Projetos\Aula\RestWhitASP-NETUdemy\RestWhitASPNETUdemy 01 - Calculator\RestWhitASPNETUdemy\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\miguel.silva\Documents\Projetos\VisualStudio\Projetos\Aula\RestWhitASP-NETUdemy\RestWhitASPNETUdemy 01 - Calculator\RestWhitASPNETUdemy\bin\Debug\netcoreapp3.0\RestWhitASPNETUdemy.exe
+C:\Users\miguel.silva\Documents\Projetos\VisualStudio\Projetos\Aula\RestWhitASP-NETUdemy\RestWhitASPNETUdemy 01 - Calculator\RestWhitASPNETUdemy\bin\Debug\netcoreapp3.0\RestWhitASPNETUdemy.deps.json
+C:\Users\miguel.silva\Documents\Projetos\VisualStudio\Projetos\Aula\RestWhitASP-NETUdemy\RestWhitASPNETUdemy 01 - Calculator\RestWhitASPNETUdemy\bin\Debug\netcoreapp3.0\RestWhitASPNETUdemy.runtimeconfig.json
+C:\Users\miguel.silva\Documents\Projetos\VisualStudio\Projetos\Aula\RestWhitASP-NETUdemy\RestWhitASPNETUdemy 01 - Calculator\RestWhitASPNETUdemy\bin\Debug\netcoreapp3.0\RestWhitASPNETUdemy.runtimeconfig.dev.json
+C:\Users\miguel.silva\Documents\Projetos\VisualStudio\Projetos\Aula\RestWhitASP-NETUdemy\RestWhitASPNETUdemy 01 - Calculator\RestWhitASPNETUdemy\bin\Debug\netcoreapp3.0\RestWhitASPNETUdemy.dll
+C:\Users\miguel.silva\Documents\Projetos\VisualStudio\Projetos\Aula\RestWhitASP-NETUdemy\RestWhitASPNETUdemy 01 - Calculator\RestWhitASPNETUdemy\bin\Debug\netcoreapp3.0\RestWhitASPNETUdemy.pdb
+C:\Users\miguel.silva\Documents\Projetos\VisualStudio\Projetos\Aula\RestWhitASP-NETUdemy\RestWhitASPNETUdemy 01 - Calculator\RestWhitASPNETUdemy\obj\Debug\netcoreapp3.0\RestWhitASPNETUdemy.csprojAssemblyReference.cache
+C:\Users\miguel.silva\Documents\Projetos\VisualStudio\Projetos\Aula\RestWhitASP-NETUdemy\RestWhitASPNETUdemy 01 - Calculator\RestWhitASPNETUdemy\obj\Debug\netcoreapp3.0\staticwebassets\RestWhitASPNETUdemy.StaticWebAssets.Manifest.cache
+C:\Users\miguel.silva\Documents\Projetos\VisualStudio\Projetos\Aula\RestWhitASP-NETUdemy\RestWhitASPNETUdemy 01 - Calculator\RestWhitASPNETUdemy\obj\Debug\netcoreapp3.0\staticwebassets\RestWhitASPNETUdemy.StaticWebAssets.xml
+C:\Users\miguel.silva\Documents\Projetos\VisualStudio\Projetos\Aula\RestWhitASP-NETUdemy\RestWhitASPNETUdemy 01 - Calculator\RestWhitASPNETUdemy\obj\Debug\netcoreapp3.0\RestWhitASPNETUdemy.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\miguel.silva\Documents\Projetos\VisualStudio\Projetos\Aula\RestWhitASP-NETUdemy\RestWhitASPNETUdemy 01 - Calculator\RestWhitASPNETUdemy\obj\Debug\netcoreapp3.0\RestWhitASPNETUdemy.AssemblyInfoInputs.cache
+C:\Users\miguel.silva\Documents\Projetos\VisualStudio\Projetos\Aula\RestWhitASP-NETUdemy\RestWhitASPNETUdemy 01 - Calculator\RestWhitASPNETUdemy\obj\Debug\netcoreapp3.0\RestWhitASPNETUdemy.AssemblyInfo.cs
+C:\Users\miguel.silva\Documents\Projetos\VisualStudio\Projetos\Aula\RestWhitASP-NETUdemy\RestWhitASPNETUdemy 01 - Calculator\RestWhitASPNETUdemy\obj\Debug\netcoreapp3.0\RestWhitASPNETUdemy.RazorTargetAssemblyInfo.cache
+C:\Users\miguel.silva\Documents\Projetos\VisualStudio\Projetos\Aula\RestWhitASP-NETUdemy\RestWhitASPNETUdemy 01 - Calculator\RestWhitASPNETUdemy\obj\Debug\netcoreapp3.0\RestWhitASPNETUdemy.dll
+C:\Users\miguel.silva\Documents\Projetos\VisualStudio\Projetos\Aula\RestWhitASP-NETUdemy\RestWhitASPNETUdemy 01 - Calculator\RestWhitASPNETUdemy\obj\Debug\netcoreapp3.0\RestWhitASPNETUdemy.pdb
